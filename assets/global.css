@@ -1,0 +1,111 @@
+a{text-decoration:none}
+#wrapper{
+	width:80%;
+	background:yellow
+}
+#header{
+	width:100%;
+	float:left;
+	background:#FFCC00;
+	height:100px;
+	padding:10px;
+}
+.logo{
+	float:left;
+	width:10%;
+	height:auto;
+}
+#navigasi{
+	width:100%;
+	float:left;
+	margin:2px 0px 0px 0px;
+	height:35px;
+	padding:10px;
+}
+.form_cari{
+	height:80%;
+	width:20%;
+	float:left;
+}
+.input_form{
+	width:80%;
+	height:100%;
+	float:left;
+}
+.submit_form{
+	float:left;
+	width:20%;
+	height:100%;
+}
+.tombol{
+	float:left;
+	padding:5px 20px;
+	background:#FFCC00;
+	margin:0px 0px 0px 10px;
+}
+.isi_1{
+	width:80%;
+	height:auto;
+	background:#FFCC00;
+	margin:20px 0px 0px 0px;
+	clear:both;
+}
+.isi_1_1{
+	width:160px;
+	height:160px;
+	background:#FFCC00;
+	float:left;
+	margin:10px 10px 10px 0px;
+	padding-top:10px;
+}
+#isi{
+	width:100%;
+	float:left;
+	background:#ffff;
+	padding:10px
+}
+#kaki{
+	height:100px;
+	width:100%;
+	float:left;
+	background:#FFCC00;
+	padding:10px;
+	margin-top:50px;
+}
+.isi_kiri{
+	float:left;
+	width:40%;
+	height:500px;
+	margin:10px 0px 0px 10px;
+	background:#FFCC00;
+}
+.isi_tengah{
+	float:left;
+	width:30%;
+	height:500px;
+	margin:10px 0px 0px 10px;
+	background:#FFCC00;
+}
+.isi_tengah p{
+	float:left;
+	padding:20px;
+	height:300px;
+	margin:10px 0px 0px 10px;
+}
+.isi_kanan{
+	float:left;
+	width:10%;
+	height:100px;
+	margin:10px 0px 0px 10px;
+	background:#FFCC00;
+}
+.gambar_detail{
+	width:90%;
+	height:90%;
+	margin:5%;
+	float:left;
+}
+.pesan{
+	float:right;
+	margin: 10px 20px 10px;
+}
